@@ -1,0 +1,29 @@
+#pragma hdrstop
+#pragma argsused
+
+#ifdef _WIN32
+#include <tchar.h>
+#else
+  typedef char _TCHAR;
+  #define _tmain main
+#endif
+#include <iostream>
+#include <stdio.h>
+#include <cmath>
+#include <conio.h>
+#include <math.h>
+
+
+int _tmain(int argc, _TCHAR* argv[]) 
+{   double a,b,h,x,s,y,val,k;
+	const double pi=3.141592653589793;
+	std::cout << "vvedite a,b,h" << "\n";
+	std::cin >> a >> b >> h;
+	std::cout << "\n" << a  << "," << b << "," << h << ",";
+	for (x=a; x==b; x+=h) {
+	val=(1-2*x*cos(pi/3)+sqrt(x));
+	y=-0.5*log(val);
+	}
+	getch();
+	return 0;
+}

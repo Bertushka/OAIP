@@ -1,0 +1,32 @@
+#pragma hdrstop
+#pragma argsused
+
+#ifdef _WIN32
+#include <tchar.h>
+#include <iostream>
+#include <conio.h>
+#include <math.h>
+double x,y,z,c,arccos1,arccos2,arccos,arctg,otv;
+
+#else
+  typedef char _TCHAR;
+  #define _tmain main
+#endif
+#include <stdio.h>
+using namespace std ;
+
+int _tmain(int argc, _TCHAR* argv[])
+{
+x=0.1722;
+y=6.33;
+z=3.25*10E-4;
+c=abs(x-y);
+arccos1=(x+3*c+x*x);
+arccos2=(c*z+x*x);
+arccos=acos(x)*arccos1/arccos2;
+arctg=atan(x);
+otv=(5*arctg-arccos/4);
+ cout<<otv;
+ getch();
+	return 0;
+}

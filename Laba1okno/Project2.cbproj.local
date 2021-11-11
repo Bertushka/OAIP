@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.347,=D:\Proga\Proekti\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.680,=D:\Proga\Proekti\Unit1.cpp</Transaction>
+    <Transaction>2021.11.10 18:56:51.748,=D:\Proga\Proekti\Project2PCH1.h</Transaction>
+    <Transaction>2021.11.10 18:56:51.931,=D:\Proga\Proekti\Unit1.cpp</Transaction>
+    <Transaction>2021.11.10 19:02:27.138,D:\Proga\Proekti\Laba1okno\Unit1.dfm=D:\Proga\Proekti\Unit1.dfm</Transaction>
+    <Transaction>2021.11.10 19:02:27.138,D:\Proga\Proekti\Laba1okno\Unit1.h=D:\Proga\Proekti\Unit1.h</Transaction>
+    <Transaction>2021.11.10 19:02:27.138,D:\Proga\Proekti\Laba1okno\Unit1.cpp=D:\Proga\Proekti\Unit1.cpp</Transaction>
+    <Transaction>2021.11.10 19:02:33.002,D:\Proga\Proekti\Laba1okno\Project2PCH1.h=D:\Proga\Proekti\Project2PCH1.h</Transaction>
+    <Transaction>2021.11.10 19:02:36.755,D:\Proga\Proekti\Laba1okno\Project2.cbproj=D:\Proga\Proekti\Project2.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

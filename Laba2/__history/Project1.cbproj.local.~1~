@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2021.09.21 12:49:15.953,=D:\Proga\Project1PCH1.h</Transaction>
+    <Transaction>2021.09.21 12:49:16.041,=D:\Proga\File1.cpp</Transaction>
+    <Transaction>2021.09.21 13:33:15.773,D:\Proga\Proekti\Laba2\File1.cpp=D:\Proga\File1.cpp</Transaction>
+    <Transaction>2021.09.21 13:33:22.232,D:\Proga\Proekti\Laba2\Project1PCH1.h=D:\Proga\Project1PCH1.h</Transaction>
+    <Transaction>2021.09.21 13:33:25.258,D:\Proga\Proekti\Laba2\Project1.cbproj=D:\Proga\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

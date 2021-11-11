@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.522,D:\Proga\Proekti\Laba3\Consol\Project1.cbproj=D:\Proga\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.110,D:\Proga\Proekti\Laba3\Consol\Project1PCH1.h=D:\Proga\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.453,=D:\Proga\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.991,D:\Proga\Proekti\Laba3\Consol\File1.cpp=D:\Proga\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.032,=D:\Proga\Project1PCH1.h</Transaction>
+  </Transactions>
+</BorlandProject>
